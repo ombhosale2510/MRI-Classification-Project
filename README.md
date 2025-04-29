@@ -3,6 +3,8 @@
 ## Overview
 This project implements a deep learning-based classification system for brain MRI images, capable of identifying different types of brain tumors including glioma, meningioma, pituitary tumors, and cases with no tumors. Multiple state-of-the-art deep learning architectures are implemented and compared.
 
+This work was completed as part of the course **ENGG*6600: Special Topics - Introduction to AI** (Summer 2024) at the University of Guelph, receiving a grade of 94/100.
+
 ## Project Structure
 ```
 ├── data/
